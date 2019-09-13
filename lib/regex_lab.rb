@@ -1,5 +1,5 @@
 def starts_with_a_vowel?(word)
-  /\b[aeiou]\w+/
+  /\b[aeiou]\w*/
 
 end
 
